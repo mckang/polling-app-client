@@ -28,5 +28,5 @@ jobs:
       with:
         push: true
         build-args: |
-            REACT_APP_API_BASE_URL=http://61.109.214.48/api
+            REACT_APP_API_BASE_URL=https://poll.thomas-k.name/api
         tags: mckang/frontend:latest
